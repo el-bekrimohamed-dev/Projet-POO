@@ -1,6 +1,6 @@
 # Projet-POO
 Bonjour Monsieur,
-Vous trouverez ci-joints les fichiers relatifs au projet :
+Vous trouverez ci-joints les fichiers relatifs au projet réalisé par MOHAMED EL-BEKRI ET SOUHAIL KHARBOUCH :
 - le code source principal ,
 - une démonstration sous forme d’enregistrement vidéo de l’interface de l’application,
 - le rapport détaillé.
